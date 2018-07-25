@@ -10,5 +10,5 @@
 > 2. Run `npm install`
 > 3. Run `bower install`
 > 4. run `gulp serve`.
-> 5. Access `http://localhost:8000`
+> 5. Access `http://localhost:9000`
 
